@@ -7,11 +7,11 @@ pub_date: 2025
 abstract: 
 cover: /assets/images/covers/2025-MetacognitiveSensitivity.jpeg
 authors:
-  - <strong>Doyeon Lee</strong>
+  - Doyeon Lee
   - Joseph Pruitt
   - Tianyu Zhou
   - Jing Du
-  - Brian Odegaard#
+  - Brian Odegaard*
 links:
   Paper: https://academic.oup.com/pnasnexus/article/4/5/pgaf133/8118889
 ---
