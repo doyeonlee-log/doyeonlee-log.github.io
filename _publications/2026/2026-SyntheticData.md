@@ -9,7 +9,7 @@ cover: /assets/images/covers/2026-Synthetic.png
 authors:
   - Minsung Kang
   - Byeng-Hee Chang
-  - <strong>Doyeon Lee</strong>#
+  - Doyeon Lee*
 links:
   Paper: https://link.springer.com/article/10.1007/s00146-026-02878-1
 ---
