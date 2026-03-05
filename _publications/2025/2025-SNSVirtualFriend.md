@@ -9,7 +9,7 @@ cover: /assets/images/covers/2025-VRFriend.jpg
 authors:
   - Doyeon Lee
   - Byeng-Hee Chang*
-  - Sylvia Chan-Olmsted#
+  - Sylvia Chan-Olmsted*
 links:
   Paper: "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1555218/full"
 ---
