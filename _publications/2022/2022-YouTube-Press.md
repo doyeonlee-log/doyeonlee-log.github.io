@@ -1,7 +1,7 @@
 ---
 title: "How do users perceive YouTube as a press?: An exploratory study of the factors affecting users’ perceptions of YouTube journalism"
 date: 2022-03-01 00:01:00 +0800
-selected: true
+selected: false
 pub: "Social Science Review"
 pub_date: "2022"
 abstract: >-
