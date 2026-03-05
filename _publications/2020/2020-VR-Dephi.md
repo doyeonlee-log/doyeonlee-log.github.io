@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Comfort Experience of a Head-Mounted Display with the Delphi Methodology"
 date: 2020-12-02 00:01:00 +0800
-selected: true
+selected: false
 pub: "Journal of Internet Computing and Services"
 pub_date: "2020"
 abstract: >-
