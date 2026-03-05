@@ -1,5 +1,6 @@
 ---
 title: "Metacognitive sensitivity: The key to calibrating trust and optimal decision making with AI"
+selected: true
 date: 2025-05-01 00:01:00 +0800
 selected: true
 pub: PNAS nexus
