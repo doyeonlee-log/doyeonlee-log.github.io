@@ -7,7 +7,7 @@ pub_date: "2022"
 abstract: >-
 cover: /assets/images/covers/2022-MediaArt.jpg
 authors:
-  - <strong>Doyeon Lee</strong>#
+- Doyeon Lee*
 links:
   Paper: https://www.jstor.org/stable/48804622
 ---
