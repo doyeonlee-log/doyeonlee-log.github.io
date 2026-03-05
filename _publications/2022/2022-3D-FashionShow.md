@@ -9,7 +9,7 @@ cover: /assets/images/covers/2022-3DFashionShow.gif
 authors:
   - Ji Yeon Park
   - Jong Yoon Lee
-  - <strong>Doyeon Lee</strong>#
+  - Doyeon Lee*
 links:
   Paper: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11251780
 ---
