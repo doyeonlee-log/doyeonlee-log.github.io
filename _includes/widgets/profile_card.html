@@ -63,6 +63,12 @@
                             <i class="fab fa-google-scholar"></i> Google Scholar
                         </a>
                         {% endif %}
+
+                        {% if site.data.profile.faculty_directory %}
+                        <a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.faculty_directory }}">
+                            <i class="fas fa-university"></i> Faculty Directory
+                        </a>
+                        {% endif %}
                         
                         {% if site.data.profile.github %}
                         <a class="pr-3 no-break" target="_blank" href="https://github.com/{{ site.data.profile.github }}">
