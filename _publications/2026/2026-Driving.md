@@ -1,7 +1,7 @@
 ---
 title: "Driving under time pressure: Driver state and behavior changes with limited time savings in complex road networks-A naturalistic time-incentive study with young male drivers"
 date: 2026-03-01 00:01:00 +0800
-selected: true
+selected: false
 pub: "Transportation Research Part F: Traffic Psychology and Behaviour"
 pub_date: "2026"
 abstract: ""
