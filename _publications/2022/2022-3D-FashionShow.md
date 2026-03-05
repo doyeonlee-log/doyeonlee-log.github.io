@@ -10,7 +10,7 @@ cover: /assets/images/covers/cover1.jpg
 authors:
   - Ji Yeon Park
   - Jong Yoon Lee
-  - Doyeon Lee#
+  - <strong>Doyeon Lee</strong>#
 links:
   Paper: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11251780
 ---
