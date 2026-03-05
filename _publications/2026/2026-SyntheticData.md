@@ -1,0 +1,15 @@
+---
+title: "From synthetic faces to synthetic selves: AI-mediated identity proximity in AI-generated human images"
+date: 2026-01-01 00:01:00 +0800
+selected: true
+pub: AI & Society
+pub_date: 2026
+abstract: 
+cover: /assets/images/covers/2026-Synthetic.jpg
+authors:
+  - Minsung Kang
+  - Byeng-Hee Chang
+  - <strong>Doyeon Lee</strong>#
+links:
+  Paper: https://link.springer.com/article/10.1007/s00146-026-02878-1
+---
