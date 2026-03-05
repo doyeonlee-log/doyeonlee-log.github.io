@@ -5,18 +5,18 @@
 {%- for _key in authors -%}
     {%- assign last_char = _key | slice: -1, 1%}
     {%- assign last_2chars = _key | slice: -2, 2%}
-    {%- if last_2chars == "*#" or last_2chars == "#*" -%}
-        {%- assign key = _key | replace: "#*", "" | replace: "*#", "" -%}
-        {%- assign mark = "*<sup>#</sup>" -%}
+    {%- if last_2chars == "#*" or last_2chars == "*#" -%}
+        {%- assign key = _key | replace: "*#", "" | replace: "#*", "" -%}
+        {%- assign mark = "#<sup>*</sup>" -%}
         {%- assign has_eq_contrib = true -%}
         {%- assign has_corresponding = true -%}
-    {%- elsif last_char == "*" -%}
-        {%- assign key = _key | split: "*" | first -%}
-        {%- assign mark = "*" -%}
-        {%- assign has_eq_contrib = true -%}
     {%- elsif last_char == "#" -%}
         {%- assign key = _key | split: "#" | first -%}
-        {%- assign mark = '<sup>#</sup>' -%}
+        {%- assign mark = "#" -%}
+        {%- assign has_eq_contrib = true -%}
+    {%- elsif last_char == "*" -%}
+        {%- assign key = _key | split: "*" | first -%}
+        {%- assign mark = '<sup>*</sup>' -%}
         {%- assign has_corresponding = true -%}
     {%- else -%}
         {%- assign key = _key -%}
@@ -32,7 +32,7 @@
     {%- endif -%}
 
     {%- if info['bold'] == true -%}
-        {%- assign display_name = name | append: mark | prepend: "<strong>" | append: "</strong>" -%}
+        {%- assign display_name = name | append: mark | prepend: "<strong><mark>" | append: "</mark></strong>" -%}
     {%- else -%}
         {%- assign display_name = name | append: mark -%}
     {%- endif -%}
@@ -48,13 +48,13 @@
 {%- endfor -%}
 
 {%- if has_eq_contrib or has_corresponding %}
-<mark>(
+<small class="text-muted">(
     {%- if has_eq_contrib -%}
-        * <i> equal contribution</i>
+        # <i> equal contribution</i>
     {%- endif -%}
     {%- if has_corresponding -%}
         {%- if has_eq_contrib -%}, {% endif -%}
-        <sup>#</sup> <i> corresponding author</i>
+        <sup>*</sup> <i> corresponding author</i>
     {%- endif -%}
-)</mark>
+)</small>
 {%- endif -%}
