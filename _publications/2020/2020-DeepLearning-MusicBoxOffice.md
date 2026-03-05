@@ -11,5 +11,5 @@ authors:
 - Doyeon Lee
 - Byeng-Hee Chang*
 links:
-  Paper: [https://www.cell.com](https://koreascience.kr/article/JAKO202025465017110.pdf)
+  Paper: https://koreascience.kr/article/JAKO202025465017110.pdf
 ---
