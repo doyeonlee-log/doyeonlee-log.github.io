@@ -1,7 +1,7 @@
 ---
 title: "Factors Affecting Satisfaction with Media Art Experiences and Intention to Re-experience: Focusing on Interactivity, Presence, and Flow"
 date: 2022-09-02 00:01:00 +0800
-selected: true
+selected: false
 pub: "International Journal of Arts Management"
 pub_date: "2022"
 abstract: >-
