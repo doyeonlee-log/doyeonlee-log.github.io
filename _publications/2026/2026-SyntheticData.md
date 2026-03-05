@@ -1,5 +1,6 @@
 ---
 title: "From synthetic faces to synthetic selves: AI-mediated identity proximity in AI-generated human images"
+selected: true
 date: 2026-02-01 00:01:00 +0800
 selected: true
 pub: AI & Society
