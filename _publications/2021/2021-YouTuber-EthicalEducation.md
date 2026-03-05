@@ -1,7 +1,7 @@
 ---
 title: "The Effect of Perceived YouTuber Consumption Values on Perception of Necessity for YouTuber Ethics Education: The Mediating Role of Perception on YouTuber’s Unethical Behavior"
 date: 2021-11-01 00:01:00 +0800
-selected: true
+selected: false
 pub: "Journal of Speech, Media and Communication Research"
 pub_date: "2021"
 abstract: >-
