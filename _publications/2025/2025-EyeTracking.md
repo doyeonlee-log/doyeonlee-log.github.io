@@ -5,7 +5,7 @@ selected: true
 pub: PsyArXiv
 pub_date: 2025
 abstract:
-cover: /assets/images/covers/2025-EyeTracking.jpg
+cover: /assets/images/covers/EyeTracking.gif
 authors:
   - Doyeon Lee
   - Joseph Pruitt
