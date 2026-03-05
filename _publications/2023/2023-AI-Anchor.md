@@ -5,7 +5,7 @@ selected: true
 pub: "Korean Journal of Journalism and Communication"
 pub_date: "2023"
 abstract: >-
-cover: /assets/images/covers/cover1.jpg
+cover: /assets/images/covers/2023-AIAnchor.jpg
 authors:
   - Jeongmin Ko
   - <strong>Doyeon Lee</strong>#
