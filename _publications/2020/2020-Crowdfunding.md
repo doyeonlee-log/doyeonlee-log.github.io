@@ -7,7 +7,7 @@ pub_date:       "2020"
 abstract:
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Doyeon Lee
+- <strong>Doyeon Lee</strong>
 - Byeng-Hee Chang*
 links:
   Paper: https://koreascience.kr/article/JAKO202003562720124.pdf
