@@ -5,7 +5,7 @@ selected: true
 pub: "Behaviour & Information Technology"
 pub_date: "2024"
 abstract: >-
-cover: /assets/images/covers/2024-VR-Dephi2.jpg
+cover: /assets/images/covers/2024-VR2.jpg
 authors:
   - <strong>Doyeon Lee</strong>
   - Byeng-Hee Chang
