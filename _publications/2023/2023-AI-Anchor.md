@@ -1,7 +1,7 @@
 ---
 title: "An Exploratory Study on the Influence of Perceived Characteristics of AI Virtual Characters on the Intention to Continue Watching News Hosted by AI Anchor"
 date: 2023-06-01 00:01:00 +0800
-selected: true
+selected: false
 pub: "Korean Journal of Journalism and Communication"
 pub_date: "2023"
 abstract: >-
