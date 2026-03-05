@@ -4,7 +4,7 @@ date: 2025-04-01 00:01:00 +0800
 selected: true
 pub: "Frontiers in Public Health"
 pub_date: "2025"
-abstract: >-
+abstract:
 cover: /assets/images/covers/2025-VRFriend.jpg
 authors:
   - <strong>Doyeon Lee</strong>
