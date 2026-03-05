@@ -9,7 +9,7 @@ cover:  /assets/images/covers/2025-PeripheralVision.png
 authors:
   - Brian Odegaard
   - Joseph Pruitt
-  - <strong>Doyeon Lee</strong>
+  - Doyeon Lee
   - Angus Macgregor
   - Trevor Caruso
 links:
