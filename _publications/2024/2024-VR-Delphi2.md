@@ -1,7 +1,7 @@
 ---
 title: "Virtual reality content evaluation visualization tool focused on comfort, cybersickness, and perceived excitement"
 date: 2024-07-01 00:01:00 +0800
-selected: true
+selected: false
 pub: "Behaviour & Information Technology"
 pub_date: "2024"
 abstract: >-
