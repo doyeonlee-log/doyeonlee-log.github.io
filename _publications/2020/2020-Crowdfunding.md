@@ -8,7 +8,7 @@ abstract:
 cover:          /assets/images/covers/cover1.jpg
 authors:
 - <strong>Doyeon Lee</strong>
-- Byeng-Hee Chang*
+- Byeng-Hee Chang#
 links:
   Paper: https://koreascience.kr/article/JAKO202003562720124.pdf
 ---
