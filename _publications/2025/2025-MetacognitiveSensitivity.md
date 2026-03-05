@@ -5,7 +5,7 @@ selected: true
 pub: PNAS nexus
 pub_date: 2025
 abstract: 
-cover: /assets/images/covers/2025-MetacognitiveSensitivity.jpg
+cover: /assets/images/covers/2025-MetacognitiveSensitivity.jpeg
 authors:
   - <strong>Doyeon Lee</strong>
   - Joseph Pruitt
