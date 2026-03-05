@@ -5,7 +5,7 @@ selected: true
 pub: Journal of Vision
 pub_date: 2025
 abstract: 
-cover: 
+cover:  /assets/images/covers/cover1.jpg
 authors:
   - Brian Odegaard
   - Joseph Pruitt
