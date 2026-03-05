@@ -9,7 +9,7 @@ abstract: >-
 cover: /assets/images/covers/cover1.jpg
 authors:
   - Doyeon Lee
-  - Hun Kim*
+  - Hun Kim#
 links:
   Paper: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002780131
 ---
