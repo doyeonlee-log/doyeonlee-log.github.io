@@ -1,6 +1,5 @@
 ---
 title: "Enhancing the study of peripheral vision in virtual reality with improved eye tracking"
-selected: true
 date: 2025-07-02 00:01:00 +0800
 selected: true
 pub: PsyArXiv
