@@ -5,7 +5,7 @@ selected: true
 pub: "Journal of Internet Computing and Services"
 pub_date: "2020"
 abstract: >-
-cover: /assets/images/covers/cover1.jpg
+cover: /assets/images/covers/2020-VR-Delphi1.jpg
 authors:
 - <strong>Doyeon Lee</strong>
 - Byeng-Hee Chang
