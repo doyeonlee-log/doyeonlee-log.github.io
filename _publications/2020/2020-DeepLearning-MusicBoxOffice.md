@@ -5,7 +5,7 @@ selected:       true
 pub:            "Journal of the Korea Contents Association"
 pub_date:       "2020"
 abstract:
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/2020-MusicBoxOffice.jpg
 authors:
 - <strong>Doyeon Lee</strong>
 - Byeng-Hee Chang#
