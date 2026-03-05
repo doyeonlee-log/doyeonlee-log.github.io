@@ -5,7 +5,7 @@ selected: true
 pub: Journal of Vision
 pub_date: 2025
 abstract: 
-cover:  /assets/images/covers/cover1.jpg
+cover:  /assets/images/covers/2025-PeripheralVision.png
 authors:
   - Brian Odegaard
   - Joseph Pruitt
