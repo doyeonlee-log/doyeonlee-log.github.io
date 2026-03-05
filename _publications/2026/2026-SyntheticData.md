@@ -5,7 +5,7 @@ selected: true
 pub: AI & Society
 pub_date: 2026
 abstract: 
-cover: /assets/images/covers/2026-Synthetic.png
+cover: /assets/images/covers/2026-Synthetic.gif
 authors:
   - Minsung Kang
   - Byeng-Hee Chang
