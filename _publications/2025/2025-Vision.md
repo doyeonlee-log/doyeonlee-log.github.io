@@ -1,7 +1,7 @@
 ---
 title: "The theory of subjective inflation in peripheral vision: accept, reject, or revise?"
 date: 2025-07-01 00:01:00 +0800
-selected: true
+selected: false
 pub: Journal of Vision
 pub_date: 2025
 abstract: 
