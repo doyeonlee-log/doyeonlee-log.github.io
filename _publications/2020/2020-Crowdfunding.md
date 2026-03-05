@@ -7,8 +7,8 @@ pub_date:       "2020"
 abstract:
 cover:          /assets/images/covers/2020-Crowdfunding.jpg
 authors:
-- <strong>Doyeon Lee</strong>
-- Byeng-Hee Chang#
+- Doyeon Lee
+- Byeng-Hee Chang*
 links:
   Paper: https://koreascience.kr/article/JAKO202003562720124.pdf
 ---
