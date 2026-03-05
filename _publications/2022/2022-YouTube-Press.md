@@ -7,9 +7,9 @@ pub_date: "2022"
 abstract: >-
 cover: /assets/images/covers/2022-YouTube-Press.jpg
 authors:
-  - <strong>Doyeon Lee</strong>
+  - Doyeon Lee
   - Dong-Yoon Kim
-  - Hun Kim#
+  - Hun Kim*
 links:
   Paper: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11287118
 ---
