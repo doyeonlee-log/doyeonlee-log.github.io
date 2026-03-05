@@ -1,7 +1,7 @@
 ---
 title: "Will You Accept a Virtual Human as a Friend?: Exploring the Role of Virtual Humans in Mood Management and Mental Health Support"
 date: 2025-04-01 00:01:00 +0800
-selected: true
+selected: false
 pub: "Frontiers in Public Health"
 pub_date: "2025"
 abstract: ""
