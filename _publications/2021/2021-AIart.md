@@ -7,8 +7,8 @@ pub_date: "2021"
 abstract: >-
 cover: /assets/images/covers/2021-AI-Art.jpg
 authors:
-- <strong>Doyeon Lee</strong>
-- Kyung Ho Hwang#
+- Doyeon Lee
+- Kyung Ho Hwang*
 links:
   Paper: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10958513
 ---
