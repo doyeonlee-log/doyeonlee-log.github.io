@@ -1,7 +1,7 @@
 ---
 title: "A Study of Factors Affecting Intention to Continue Using 3D Digital Fashion Shows: Focusing on the Perceived Characteristics, Personal Characteristics, and Relative Advantages of 3D Images"
 date: 2022-02-01 00:01:00 +0800
-selected: true
+selected: false
 pub: "Korean Journal of Communication Studies"
 pub_date: "2022"
 abstract: >-
