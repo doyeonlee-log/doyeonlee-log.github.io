@@ -5,7 +5,7 @@ selected: true
 pub: "Korean Journal of Communication Studies"
 pub_date: "2022"
 abstract: >-
-cover: /assets/images/covers/cover1.jpg
+cover: /assets/images/covers/2022-3DFashionShow.gif
 authors:
   - Ji Yeon Park
   - Jong Yoon Lee
