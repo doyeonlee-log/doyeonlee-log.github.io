@@ -5,7 +5,7 @@ selected: false
 pub: "Social Science Review"
 pub_date: "2022"
 abstract: >-
-cover: /assets/images/covers/2022-YouTube-Press.jpg
+cover: /assets/images/covers/YouTube.gif
 authors:
   - Doyeon Lee
   - Dong-Yoon Kim
