@@ -7,8 +7,8 @@ pub_date: "2021"
 abstract: >-
 cover: /assets/images/covers/2022-YouTube-Press.jpg
 authors:
-  - <strong>Doyeon Lee</strong>
-  - Hun Kim#
+  - Doyeon Lee
+  - Hun Kim*
 links:
   Paper: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002780131
 ---
