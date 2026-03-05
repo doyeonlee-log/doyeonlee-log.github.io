@@ -5,7 +5,7 @@ selected: true
 pub: "International Journal of Arts Management"
 pub_date: "2022"
 abstract: >-
-cover: /assets/images/covers/cover1.jpg
+cover: /assets/images/covers/2022-MediaArt.jpg
 authors:
   - <strong>Doyeon Lee</strong>#
 links:
