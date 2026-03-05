@@ -7,10 +7,10 @@ pub_date: 2025
 abstract:
 cover: /assets/images/covers/2025-EyeTracking.jpg
 authors:
-  - <strong>Doyeon Lee</strong>
+  - Doyeon Lee
   - Joseph Pruitt
   - Jing Du
-  - Brian Odegaard#
+  - Brian Odegaard*
 links:
   Paper: https://osf.io/download/6e25k
 ---
