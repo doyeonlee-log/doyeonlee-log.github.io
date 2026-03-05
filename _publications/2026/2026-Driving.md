@@ -11,10 +11,10 @@ authors:
   - Wuyang Chen
   - Xiaoyu Zhuang
   - Chenyu Xu
-  - <strong>Doyeon Lee</strong>
+  - Doyeon Lee
   - Xiaoou Yang
   - Jie Wang
-  - "Shijian He#"
+  - Shijian He*
 links:
   Paper: "https://www.sciencedirect.com/science/article/pii/S1369847825004383"
 ---
