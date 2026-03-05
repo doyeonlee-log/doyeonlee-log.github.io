@@ -5,7 +5,7 @@ selected: true
 pub: "Journal of Speech, Media and Communication Research"
 pub_date: "2021"
 abstract: >-
-cover: /assets/images/covers/cover1.jpg
+cover: /assets/images/covers/2022-YouTube-Press.jpg
 authors:
   - <strong>Doyeon Lee</strong>
   - Hun Kim#
