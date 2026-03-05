@@ -1,7 +1,7 @@
 ---
 title:          "An Empirical Analysis on the Success Factors of Crowdfunding: Focusing on the Movie Category Project"
 date:           2020-12-01 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Journal of the Korea Contents Association"
 pub_date:       "2020"
 abstract:
