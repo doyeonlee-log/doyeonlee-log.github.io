@@ -11,6 +11,7 @@ positions:
 email: "doyeon.lee@mga.edu"
 cv_link: https://drive.google.com/file/d/1N4rLjLLECZ-ENStHphg9PpU4OqbbG1JT/view?usp=sharing
 gscholar: zCDZ4AwAAAAJ  # This is an example, replace it with your own Google Scholar ID
+faculty_directory: https://ce.mga.edu/directory/people.php?name=lee-doyeon
 # github: your_github_id
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -49,15 +50,15 @@ experience:
 - name: Middle Georgia State University
   logo: /assets/images/badges/MGA_round_logo.png
   position: >-
-    Assistant Professor
-    Department of Information Technology
+    Assistant Professor <br/>
+    Department of Information Technology <br/>
     School of Computing
   date: Aug. 2025 - present
 - name: University of Florida
   logo: /assets/images/badges/UF_round_logo.png
   position: >-
-    Post Doctoral Associate
-    Department of Psychology
+    Post Doctoral Associate <br/>
+    Department of Psychology <br/>
     The Perception, Attention, and Consciousness Laboratory
   date: May. 2023 - Jul. 2025
 
