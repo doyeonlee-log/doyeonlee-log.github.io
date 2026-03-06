@@ -11,5 +11,5 @@ authors:
   - Byeng-Hee Chang
   - Jiseob Park*
 links:
-  Paper: https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4097287
+  Paper: https://www.tandfonline.com/doi/abs/10.1080/0144929X.2023.2231080
 ---
