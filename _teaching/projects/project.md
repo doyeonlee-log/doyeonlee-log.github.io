@@ -10,7 +10,6 @@ date: 2026-03-11
       My courses prioritize <code>active student engagement</code> and <code>self-directed understanding</code> by implementing a <code>Project-Based Learning (PBL)</code> framework that bridges theoretical concepts with real-world application.<br>
       <br>
       Check out the side banner to explore examples of student projects!
-      <br>
     </p>
     
 </div>
