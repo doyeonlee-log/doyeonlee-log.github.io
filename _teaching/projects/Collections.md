@@ -1,7 +1,7 @@
 ---
 show: true
 width: 8
-date: 2026-03-10
+date: 2020-03-10
 height: 295px
 images:
 - src: "assets/pictures/courses/Game1.gif"
