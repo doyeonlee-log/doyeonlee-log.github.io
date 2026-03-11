@@ -1,15 +1,23 @@
 ---
 show: true
 width: 8
-date: 2020-01-12 00:01:00 +0800
+date: 2026-03-11
 ---
 <div>
   <div class="card-body">
-    <h5 class="card-title">GitHub Star History</h5>
+    <h5 class="card-title">Project-Based Learning</h5>
     <p class="card-text">
-      This image shows the star history of the GitHub repository of this website.
+      My courses prioritize active student engagement and self-directed understanding by implementing a Project-Based Learning (PBL) framework that bridges theoretical concepts with real-world application.
     </p>
-    <p class="card-text"><small><a href="https://github.com/luost26/academic-homepage" target="_blank">Give a star!</a></small></p>
-    <img data-src="https://api.star-history.com/svg?repos=luost26/academic-homepage&type=Date" class="lazy w-100 rounded-xl-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+</div>
+
+  <div class="d-flex" style="aspect-ratio: 21 / 9;">
+    <img src="{{ 'assets/images/courses/studentPIC1.jpg' | relative_url }}" 
+         class="w-50 h-100" 
+         style="object-fit: cover;">
+    
+    <img src="{{ 'assets/images/courses/studentPIC2.jpg' | relative_url }}" 
+         class="w-50 h-100" 
+         style="object-fit: cover; border-left: 2px solid white;">
   </div>
 </div>
