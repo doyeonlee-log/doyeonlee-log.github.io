@@ -7,7 +7,7 @@ date: 2020-03-11
   <div class="card-body">
     <h5 class="card-title">Project-Based Learning</h5>
     <p class="card-text">
-      My courses prioritize <code>active student engagement</code> and <code>self-directed understanding</code> by implementing a <code>Project-Based Learning (PBL)</code> framework that bridges theoretical concepts with real-world application.
+      My courses prioritize <code>active student engagement</code> and <code>self-directed understanding</code> by implementing a <code>Project-Based Learning(PBL)</code> framework that bridges theoretical concepts with real-world application.
     </p>
 </div>
 
