@@ -11,13 +11,13 @@ date: 2026-03-11
     </p>
 </div>
 
-  <div class="d-flex" style="aspect-ratio: 21 / 9;">
+  <div class="d-flex">
     <img src="{{ 'assets/images/courses/studentPIC1.jpg' | relative_url }}" 
-         class="w-50 h-100" 
-         style="object-fit: cover;">
+         class="w-50" 
+         style="aspect-ratio: 5 / 4; object-fit: contain; background-color: #f8f9fa;">
     
     <img src="{{ 'assets/images/courses/studentPIC2.jpg' | relative_url }}" 
-         class="w-50 h-100" 
-         style="object-fit: cover; border-left: 2px solid white;">
+         class="w-50" 
+         style="aspect-ratio: 5 / 4; object-fit: contain; background-color: #f8f9fa; border-left: 2px solid white;">
   </div>
 </div>
