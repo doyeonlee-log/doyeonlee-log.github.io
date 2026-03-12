@@ -1,5 +1,5 @@
 ---
-show: true
+show: false
 width: 4
 date: 2025-08-03
 group: Courses
