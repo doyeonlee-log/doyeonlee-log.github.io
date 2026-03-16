@@ -14,7 +14,7 @@ date: 2023-01-12 00:01:00 +0800
   <div class="card-body p-4">
     <h5 class="card-title fw-bold">Cognitive-Inspired Auto-Driving Systems</h5>
     <p class="card-text text-secondary">
-      Control transition (take-over) is a critical factor in ensuring safe interaction between humans and autonomous driving systems. The metacognition mechanism, which evaluates control reliability in real-time, serves as a cornerstone for adaptive autonomous driving. While maintaining system-led control in high-certainty environments, the system dynamically integrates human eye-tracking data to refine decision-making models when encountering complex scenarios that demand empirical insights. This continuous tracking and cognitive adaptation process establishes a sophisticated human-AI collaborative loop, effectively bridging the gap between machine logic and human intuition to ensure maximum safety.
+      The integration of 'Metacognition(the system's ability to monitor and evaluate its own control reliability)' is essential for ensuring safe human-AI interaction in autonomous driving. Unlike traditional binary take-over methods, this Metacognition-based Adaptive System maintains autonomous control in high-certainty environments while dynamically incorporating human eye-tracking data to refine decision-making when encountering complex, experience-dependent scenarios. Through this continuous monitoring and cognitive adaptation process, the system establishes a sophisticated collaborative loop, effectively bridging the gap between machine logic and human intuition to maximize operational safety.
     </p>
   </div>
 </div>
